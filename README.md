@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KayraSaygi/KayraSaygi/output/snake.svg" alt="Snake animation" />
-
-###
