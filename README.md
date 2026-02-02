@@ -6,7 +6,6 @@
 
 ###
 
-<br clear="both">
 
 <p align="left">👋 Hi, I’m Kayra<br><br>I’m passionate about software development and technology.<br>I enjoy building projects that are not only functional, but also clean, scalable, and well-structured.<br><br>💻 I mainly work with HTML, CSS, JavaScript, TypeScript, React, Node.js, Firebase, SQL, along with modern tools like Git, GitHub, npm, and Vite.<br>I care about details and always try to push projects beyond “it works” into something better.<br>🚀 Currently, I’m focused on building real-world projects, improving my full-stack skills, and exploring better software architecture.</p>
 
